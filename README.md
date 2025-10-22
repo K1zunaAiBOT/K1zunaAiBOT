@@ -1,3 +1,5 @@
+<h1> よく来たわね。いらっしゃい。 </h1>
+
 <!-- gifの表示 -->
 [![領域展開](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/nohara.gif)](https://youtu.be/Mh64fbHqzjw?si=z_TEzdNuxlURfwA_)
 
@@ -5,9 +7,9 @@
   おなかがすいたら
 
   ごはんを食べに行こう
-</p>
-<br>
+</p> <br>
 
+<!-- CPU-Z リンク -->
 PC スペック： 
 [![CPU-Z](https://valid.x86.fr/cache/banner/9v6g6z-6.png)](https://valid.x86.fr/9v6g6z) <br>
 

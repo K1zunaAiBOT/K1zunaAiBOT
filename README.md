@@ -7,3 +7,6 @@
 
   ごはんを食べに行こう
   </p>
+
+あなたは ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK1zunaAiBOT%2FK1zunaAiBOT) 人目の訪問者です
+

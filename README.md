@@ -5,7 +5,7 @@
 <tr>
 <td valign="top">
   <a href="https://youtu.be/Mh64fbHqzjw?si=z_TEzdNuxlURfwA_" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/nohara.gif" alt="領域展開" width="400">
+    <img src="https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/nohara.gif" alt="領域展開" width="334">
   </a>
 </td>
 <td valign="top">
@@ -27,7 +27,7 @@
 </td>
 <td valign="top">
   <a href="https://store.steampowered.com/app/2417610/METAL_GEAR_SOLID_D_SNAKE_EATER/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/cqc.gif" alt="cqc" width="400">
+    <img src="https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/cqc.gif" alt="cqc" width="334">
   </a>
 </td>
 </tr>

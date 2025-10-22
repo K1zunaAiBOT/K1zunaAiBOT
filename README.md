@@ -1,3 +1,4 @@
+<table>
   <tr>
     <td>
       <a href="https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE" target="_blank" rel="noopener noreferrer">
@@ -6,7 +7,11 @@
     </td>
     
     <td>
-      <p>おなかがすいたら</p>
-      <p>ごはんを食べに行こう</p>
+      <p>ここにテキストを入力します。</p>
+      <p>複数行にわたる説明や、<br>改行も自由に入れられます。</p>
+      <ul>
+        <li>リストなどもOKです</li>
+      </ul>
     </td>
   </tr>
+</table>

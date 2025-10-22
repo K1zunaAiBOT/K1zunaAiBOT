@@ -8,4 +8,4 @@
   ごはんを食べに行こう
   </p>
 
-あなたは ![Profile views](https://komarev.com/ghpvc/?username=K1zunaAiBOT) 人目の訪問者です
+あなたは ![](https://komarev.com/ghpvc/?username=K1zunaAiBOT) 人目の訪問者です

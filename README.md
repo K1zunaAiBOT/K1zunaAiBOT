@@ -1,5 +1,5 @@
 <!-- gifの表示 -->
-[![領域展開](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/nohara.gif)](https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE)
+[![領域展開](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/nohara.gif)](https://youtu.be/Mh64fbHqzjw?si=z_TEzdNuxlURfwA_)
 
 <p>
   おなかがすいたら
@@ -11,6 +11,8 @@
 PC スペック： 
 [![CPU-Z](https://valid.x86.fr/cache/banner/9v6g6z-6.png)](https://valid.x86.fr/9v6g6z) <br>
 
+
+[![5000chouen](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/5000choyen.png)](https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE)
 
 Readme自己紹介っぽいやつを貼ってみるコーナー <br>
 

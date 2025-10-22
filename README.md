@@ -18,7 +18,7 @@ PC スペック：
 
 <h2>Readme自己紹介っぽいやつを貼ってみるコーナー </h2> <br>
 
-~~真面目に開発したことがないので中身が何も無い模様~~
+~~真面目に開発したことがないので中身が何も無い模様~~ <br>
 
 <!-- 統計カード -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=K1zunaAiBOT&show_icons=true&theme=radical)

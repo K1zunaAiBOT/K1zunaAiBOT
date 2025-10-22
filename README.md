@@ -15,6 +15,7 @@ PC スペック：
 [![5000chouen](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/5000choyen.png)](https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE) <br>
 
 <h1>Readme自己紹介っぽいやつを貼ってみるコーナー </h1> <br>
+
 ~~真面目に開発したことがないので中身が何も無い模様~~
 
 <!-- 統計カード -->

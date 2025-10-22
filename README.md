@@ -8,7 +8,7 @@
 </p>
 <br>
 
-PC スペック：<br>
+PC スペック： 
 [![CPU-Z](https://valid.x86.fr/cache/banner/9v6g6z-6.png)](https://valid.x86.fr/9v6g6z) <br>
 
 

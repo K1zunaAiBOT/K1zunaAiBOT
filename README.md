@@ -1,13 +1,19 @@
 <h1> よく来たわね。いらっしゃい。 </h1>
 
-<!-- gifの表示 -->
-[![領域展開](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/nohara.gif)](https://youtu.be/Mh64fbHqzjw?si=z_TEzdNuxlURfwA_)
-
-<p>
-  おなかがすいたら
-
-  ごはんを食べに行こう
-</p> <br>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://youtu.be/Mh64fbHqzjw?si=z_TEzdNuxlURfwA_" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/nohara.gif" alt="領域展開">
+      </a>
+    </td>
+    
+    <td valign="top">
+      おなかがすいたら<br>
+      ごはんを食べに行こう
+    </td>
+  </tr>
+</table>
 
 <!-- CPU-Z リンク -->
 PC スペック： 

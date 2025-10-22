@@ -4,7 +4,7 @@
 <tr>
 <td valign="top">
   <a href="https://youtu.be/Mh64fbHqzjw?si=z_TEzdNuxlURfwA_" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/nohara.gif" alt="領域展開">
+    <img src="https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/nohara.gif" alt="領域展開" width="500">
   </a>
 </td>
 <td valign="top">

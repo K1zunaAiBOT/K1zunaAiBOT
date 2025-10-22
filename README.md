@@ -12,9 +12,10 @@ PC スペック：
 [![CPU-Z](https://valid.x86.fr/cache/banner/9v6g6z-6.png)](https://valid.x86.fr/9v6g6z) <br>
 
 
-[![5000chouen](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/5000choyen.png)](https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE)
+[![5000chouen](https://github.com/K1zunaAiBOT/K1zunaAiBOT/blob/main/src/5000choyen.png)](https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE) <br>
 
-Readme自己紹介っぽいやつを貼ってみるコーナー <br>
+***Readme自己紹介っぽいやつを貼ってみるコーナー*** <br>
+~~真面目に開発したことがないので中身が何も無い模様~~
 
 <!-- 統計カード -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=K1zunaAiBOT&show_icons=true&theme=radical)

@@ -12,3 +12,5 @@
 あなたは ![Profile views](https://komarev.com/ghpvc/?username=K1zunaAiBOT) 人目の訪問者です
 
 あなたは ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK1zunaAiBOT%2FK1zunaAiBOT) 人目の訪問者です
+
+![訪問者数](https://komarev.com/ghpvc/?username=K1zunaAiBOT&label=%E8%A8%AA%E5%95%8F%E8%80%85%E6%95%B0&color=blueviolet)

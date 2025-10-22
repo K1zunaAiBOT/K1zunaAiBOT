@@ -1,4 +1,3 @@
-<table>
   <tr>
     <td>
       <a href="https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE" target="_blank" rel="noopener noreferrer">
@@ -11,4 +10,3 @@
       <p>ごはんを食べに行こう</p>
     </td>
   </tr>
-</table>

@@ -1,5 +1,6 @@
 <h1> よく来たわね。いらっしゃい。 </h1>
 
+<!-- gif画像 挿入1 -->
 <table>
 <tr>
 <td valign="top">
@@ -19,9 +20,7 @@
   ごはんを食べにいこう<br>
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td valign="top">
   スネーク、まずCQCの基本だけを思い出して...<br>

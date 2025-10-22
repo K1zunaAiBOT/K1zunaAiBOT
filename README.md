@@ -1,6 +1,6 @@
 <h1> よく来たわね。いらっしゃい。 </h1>
 
-<!-- gif画像 挿入1 -->
+<!-- gif挿入 table  -->
 <table>
 <tr>
 <td valign="top">
@@ -33,11 +33,15 @@
 </tr>
 </table>
 
+
+<!-- CPU-Z -->
 PC スペック： 
 [![CPU-Z](https://valid.x86.fr/cache/banner/9v6g6z-6.png)](https://valid.x86.fr/9v6g6z) <br>
 
+<!-- rick -->
 [![5000chouen](https://github.com/K1zunaAiBOT/K1zunaAiBOT/raw/main/src/5000choyen.png)](https://youtu.be/dQw4w9WgXcQ?si=SVGOsrtjajcf_CfE) <br>
 
+<!-- テンプレみたいなやつ -->
 <h2>Readme自己紹介っぽいやつを貼ってみるコーナー </h2> <br>
 
 ~~真面目に開発したことがないので中身が何も無い模様~~ <br>
@@ -48,3 +52,8 @@ PC スペック：
 
 累計訪問者数 
 ![Profile views](https://komarev.com/ghpvc/?username=K1zunaAiBOT)
+
+
+IGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA <br>
+
+SHUTAROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
